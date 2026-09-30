@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment / IDE
+.env
+.vscode/
+
+# Large generated datasets
+data/feature_dataset.csv
+data/temperature_dataset.csv
+data/rain_dataset.csv
